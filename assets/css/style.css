@@ -1,0 +1,36 @@
+
+body {
+    background-color: black;
+}
+
+#title {
+    text-align: center;
+    background-color: #3d3131;
+    color: #ebeb1c;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+}
+
+#gameBody {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ebeb1c;
+}
+
+#timer {
+    margin-bottom: 20px;
+}
+
+#question {
+    margin-bottom: 20px;
+}
+
+#start-button {
+    font-weight: bold;
+}
+
+.answerChoices {
+    margin: 5px;
+    font-weight: bold;
+}
